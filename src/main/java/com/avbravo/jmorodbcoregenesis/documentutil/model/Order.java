@@ -5,7 +5,7 @@
 package com.avbravo.jmorodbcoregenesis.documentutil.model;
 
 import com.avbravo.jmoordbcdi.annotations.Embedded;
-import com.avbravo.jmoordbcdi.annotations.Id;
+import com.jmoordbcoregenesis.annotations.entity.Id;
 import com.avbravo.jmoordbcdi.annotations.Referenced;
 import java.math.BigDecimal;
 import java.util.ArrayList;

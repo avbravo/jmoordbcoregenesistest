@@ -5,7 +5,7 @@
 package com.avbravo.jmorodbcoregenesis.documentutil.model;
 
 import com.avbravo.jmoordbcdi.annotations.Entity;
-import com.avbravo.jmoordbcdi.annotations.Id;
+import com.jmoordbcoregenesis.annotations.entity.Id;
 import lombok.Builder;
 import lombok.Data;
 
